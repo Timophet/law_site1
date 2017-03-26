@@ -1,0 +1,3 @@
+torum_law_homepage:
+    path:     /
+    defaults: { _controller: TorumLawBundle:Default:index }

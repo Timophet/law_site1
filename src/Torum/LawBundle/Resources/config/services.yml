@@ -1,0 +1,4 @@
+services:
+#    torum_law.example:
+#        class: Torum\LawBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
